@@ -1,0 +1,15 @@
+{
+  "name": "compression-tool",
+  "version": "1.0.0",
+  "description": "a simple lossless compression tool",
+  "main": "compress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "compress": "./compress.js",
+    "decompress":"./decompress.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
